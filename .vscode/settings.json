@@ -1,5 +1,6 @@
 {
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "editor.fontSize": 22
+    "editor.fontSize": 22,
+    "files.defaultLanguage": "${activeEditorLanguage}"
 }
